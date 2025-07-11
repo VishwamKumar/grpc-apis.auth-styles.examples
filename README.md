@@ -1,6 +1,6 @@
-# 🌤️ Weather App - gRPC Auth API Examples (Layered Architecture)
+# 🌤️ Weather App - gRPC Auth API Examples 
 
-This repository showcases multiple gRPC-based Weather APIs, each secured with different authentication mechanisms, built using the **Layered Architecture** approach.
+This repository showcases multiple gRPC-based Weather APIs, each secured with different authentication mechanisms, built using the simple Layered Architecture approach.
 
 ---
 
