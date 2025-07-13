@@ -30,7 +30,7 @@ Each project is self-contained and can be built, run, and tested independently.
 ### 🔁 Clone the Repository
 
     ```bash
-    git clone https://github.com/<your-username>/weather-app.auth-grpc-apis.layered.git
+    git clone https://github.com/vishwamkumar/weather-app.auth-grpc-apis.layered.git
     cd weather-app.auth-grpc-apis.layered
     ```
 ---
